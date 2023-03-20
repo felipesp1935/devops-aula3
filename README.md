@@ -5,3 +5,4 @@ Ferramentas de controle de versão:
 *Git 
 *Subversion
 *CVS
+conflito resolvido
