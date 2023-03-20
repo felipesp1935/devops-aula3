@@ -1,4 +1,4 @@
-# devops-aula3
+# devops-aula6
 
 Ferramentas de controle de versão:
 *Mercurial 
